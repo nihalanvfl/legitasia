@@ -25,12 +25,15 @@ body {
     top: 0;
     z-index: 1000;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    height: 100px;
+    overflow: hidden;
 }
 
 .navbar .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 100%;
 }
 
 .logo {
@@ -40,7 +43,7 @@ body {
 }
 
 .logo-img {
-    height: 120px;
+    height: 250px;
     width: auto;
     background: #331f0d;
     padding: 8px;
