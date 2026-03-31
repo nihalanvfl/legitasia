@@ -18,7 +18,7 @@ body {
 
 /* Navigation */
 .navbar {
-    background: #33200E;
+    background: #331f0d;
     color: white;
     padding: 1rem 0;
     position: sticky;
@@ -42,7 +42,7 @@ body {
 .logo-img {
     height: 120px;
     width: auto;
-    background: #33200E;
+    background: #331f0d;
     padding: 8px;
     border-radius: 5px;
 }
@@ -73,7 +73,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #33200E 0%, #4a2f1f 100%);
+    background: linear-gradient(135deg, #331f0d 0%, #4a2715 100%);
     color: white;
     padding: 0;
     text-align: center;
@@ -204,7 +204,7 @@ body {
 .cta-button {
     display: inline-block;
     background: #d4a574;
-    color: #33200E;
+    color: #331f0d;
     padding: 12px 40px;
     text-decoration: none;
     border-radius: 5px;
@@ -230,7 +230,7 @@ body {
     text-align: center;
     font-size: 2.5rem;
     margin-bottom: 3rem;
-    color: #33200E;
+    color: #331f0d;
     font-weight: 700;
     position: relative;
     padding-bottom: 1.5rem;
@@ -274,7 +274,7 @@ body {
 
 /* Statistics Section */
 .stats {
-    background: linear-gradient(135deg, #33200E 0%, #4a2f1f 100%);
+    background: linear-gradient(135deg, #331f0d 0%, #4a2715 100%);
     color: white;
     padding: 60px 20px;
 }
@@ -309,7 +309,7 @@ body {
     text-align: center;
     font-size: 2.5rem;
     margin-bottom: 3rem;
-    color: #33200E;
+    color: #331f0d;
     font-weight: 700;
     position: relative;
     padding-bottom: 1.5rem;
@@ -350,14 +350,14 @@ body {
 
 .service-icon {
     font-size: 3rem;
-    color: #33200E;
+    color: #331f0d;
     margin-bottom: 1rem;
 }
 
 .service-card h3 {
     font-size: 1.3rem;
     margin-bottom: 1rem;
-    color: #33200E;
+    color: #331f0d;
     font-weight: 600;
 }
 
@@ -377,7 +377,7 @@ body {
     text-align: center;
     font-size: 2.5rem;
     margin-bottom: 3rem;
-    color: #33200E;
+    color: #331f0d;
     font-weight: 700;
     position: relative;
     padding-bottom: 1.5rem;
@@ -404,7 +404,7 @@ body {
 }
 
 .contact-info h3 {
-    color: #33200E;
+    color: #331f0d;
     font-size: 1.3rem;
     margin-bottom: 1.5rem;
     font-weight: 600;
@@ -428,7 +428,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #33200E;
+    background: #331f0d;
     color: white;
     border-radius: 50%;
     text-decoration: none;
@@ -469,7 +469,7 @@ body {
 
 /* Footer */
 .footer {
-    background: #33200E;
+    background: #331f0d;
     color: white;
     text-align: center;
     padding: 2rem;
