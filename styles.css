@@ -81,7 +81,6 @@ body {
     padding: 0;
     text-align: center;
     position: relative;
-    min-height: 600px;
 }
 
 .carousel-container {
@@ -496,7 +495,7 @@ body {
     }
 
     .logo-img {
-        height: 100px;
+        height: 130px;
     }
 
     .logo h1 {
@@ -564,7 +563,7 @@ body {
     }
 
     .logo-img {
-        height: 80px;
+        height: 120px;
     }
 
     .logo h1 {
